@@ -1,0 +1,250 @@
+{
+  "competitions": {
+    "PL": {
+      "competition": "Premier League",
+      "updated": "2019-03-09T13:35:50.000Z",
+      "table": [
+        {
+          "position": 1,
+          "name": "Manchester City FC",
+          "played": 29,
+          "won": 23,
+          "draw": 2,
+          "lost": 4,
+          "points": 71,
+          "scored": 76,
+          "conceded": 20,
+          "difference": 56
+        },
+        {
+          "position": 2,
+          "name": "Liverpool FC",
+          "played": 29,
+          "won": 21,
+          "draw": 7,
+          "lost": 1,
+          "points": 70,
+          "scored": 64,
+          "conceded": 15,
+          "difference": 49
+        },
+        {
+          "position": 3,
+          "name": "Tottenham Hotspur FC",
+          "played": 29,
+          "won": 20,
+          "draw": 1,
+          "lost": 8,
+          "points": 61,
+          "scored": 56,
+          "conceded": 30,
+          "difference": 26
+        },
+        {
+          "position": 4,
+          "name": "Manchester United FC",
+          "played": 29,
+          "won": 17,
+          "draw": 7,
+          "lost": 5,
+          "points": 58,
+          "scored": 58,
+          "conceded": 38,
+          "difference": 20
+        },
+        {
+          "position": 5,
+          "name": "Arsenal FC",
+          "played": 29,
+          "won": 17,
+          "draw": 6,
+          "lost": 6,
+          "points": 57,
+          "scored": 61,
+          "conceded": 39,
+          "difference": 22
+        },
+        {
+          "position": 6,
+          "name": "Chelsea FC",
+          "played": 28,
+          "won": 17,
+          "draw": 5,
+          "lost": 6,
+          "points": 56,
+          "scored": 49,
+          "conceded": 30,
+          "difference": 19
+        },
+        {
+          "position": 7,
+          "name": "Wolverhampton Wanderers FC",
+          "played": 29,
+          "won": 12,
+          "draw": 7,
+          "lost": 10,
+          "points": 43,
+          "scored": 37,
+          "conceded": 35,
+          "difference": 2
+        },
+        {
+          "position": 8,
+          "name": "Watford FC",
+          "played": 29,
+          "won": 12,
+          "draw": 7,
+          "lost": 10,
+          "points": 43,
+          "scored": 41,
+          "conceded": 41,
+          "difference": 0
+        },
+        {
+          "position": 9,
+          "name": "West Ham United FC",
+          "played": 29,
+          "won": 11,
+          "draw": 6,
+          "lost": 12,
+          "points": 39,
+          "scored": 37,
+          "conceded": 41,
+          "difference": -4
+        },
+        {
+          "position": 10,
+          "name": "Everton FC",
+          "played": 29,
+          "won": 10,
+          "draw": 7,
+          "lost": 12,
+          "points": 37,
+          "scored": 39,
+          "conceded": 39,
+          "difference": 0
+        },
+        {
+          "position": 11,
+          "name": "Leicester City FC",
+          "played": 29,
+          "won": 10,
+          "draw": 5,
+          "lost": 14,
+          "points": 35,
+          "scored": 35,
+          "conceded": 41,
+          "difference": -6
+        },
+        {
+          "position": 12,
+          "name": "AFC Bournemouth",
+          "played": 29,
+          "won": 10,
+          "draw": 4,
+          "lost": 15,
+          "points": 34,
+          "scored": 39,
+          "conceded": 54,
+          "difference": -15
+        },
+        {
+          "position": 13,
+          "name": "Crystal Palace FC",
+          "played": 30,
+          "won": 9,
+          "draw": 6,
+          "lost": 14,
+          "points": 33,
+          "scored": 35,
+          "conceded": 39,
+          "difference": -4
+        },
+        {
+          "position": 14,
+          "name": "Newcastle United FC",
+          "played": 29,
+          "won": 8,
+          "draw": 7,
+          "lost": 14,
+          "points": 31,
+          "scored": 26,
+          "conceded": 36,
+          "difference": -10
+        },
+        {
+          "position": 15,
+          "name": "Brighton & Hove Albion FC",
+          "played": 29,
+          "won": 8,
+          "draw": 6,
+          "lost": 14,
+          "points": 30,
+          "scored": 30,
+          "conceded": 41,
+          "difference": -11
+        },
+        {
+          "position": 16,
+          "name": "Burnley FC",
+          "played": 29,
+          "won": 8,
+          "draw": 6,
+          "lost": 15,
+          "points": 30,
+          "scored": 32,
+          "conceded": 53,
+          "difference": -21
+        },
+        {
+          "position": 17,
+          "name": "Southampton FC",
+          "played": 29,
+          "won": 6,
+          "draw": 9,
+          "lost": 14,
+          "points": 27,
+          "scored": 32,
+          "conceded": 49,
+          "difference": -17
+        },
+        {
+          "position": 18,
+          "name": "Cardiff City FC",
+          "played": 29,
+          "won": 7,
+          "draw": 4,
+          "lost": 18,
+          "points": 25,
+          "scored": 25,
+          "conceded": 57,
+          "difference": -32
+        },
+        {
+          "position": 19,
+          "name": "Fulham FC",
+          "played": 29,
+          "won": 4,
+          "draw": 5,
+          "lost": 20,
+          "points": 17,
+          "scored": 27,
+          "conceded": 65,
+          "difference": -38
+        },
+        {
+          "position": 20,
+          "name": "Huddersfield Town AFC",
+          "played": 29,
+          "won": 3,
+          "draw": 5,
+          "lost": 21,
+          "points": 14,
+          "scored": 15,
+          "conceded": 51,
+          "difference": -36
+        }
+      ]
+    }
+  }
+}

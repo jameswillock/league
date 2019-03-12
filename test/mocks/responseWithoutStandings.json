@@ -1,0 +1,21 @@
+{
+	"filters": {},
+	"competition": {
+		"id": 2021,
+		"area": {
+			"id": 2072,
+			"name": "England"
+		},
+		"name": "Premier League",
+		"code": "PL",
+		"plan": "TIER_ONE",
+		"lastUpdated": "2019-02-12T21:10:02Z"
+	},
+	"season": {
+		"id": 151,
+		"startDate": "2018-08-10",
+		"endDate": "2019-05-12",
+		"currentMatchday": 27,
+		"winner": null
+	}
+}

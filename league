@@ -1,0 +1,33 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const program = require('commander');
+const supportedLeague = require('./supportedLeague');
+const StandingsStore = require('./StandingsStore');
+const leagueTable = require('./leagueTable');
+
+let apiKey = undefined;
+
+let league = 'PL';
+
+program
+  .version('0.0.1')
+  .arguments('<key> [league]')
+  .action((argKey, argLeague) => {
+    apiKey = argKey;
+    if (supportedLeague(argLeague)) { league = argLeague; }
+  })
+  .parse(process.argv);
+
+if (typeof apiKey === 'undefined') { 
+  console.error('API key missing');
+  process.exit(1);
+}
+
+(async () => {
+  const store = new StandingsStore(league);
+  const standings = await store.standingsForCompetition();
+  const table = leagueTable(standings);
+  console.log(table);
+})();

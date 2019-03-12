@@ -1,0 +1,24 @@
+{
+  "name": "league",
+  "version": "0.0.1",
+  "description": "Fetch and display football league tables in the terminal",
+  "main": "league",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "James Willock",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-table3": "^0.5.1",
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.16.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-datetime": "^1.5.0",
+    "mocha": "^6.0.0",
+    "mock-fs": "^4.8.0"
+  }
+}
